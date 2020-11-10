@@ -2,9 +2,8 @@
 
 <p>This UI design kit is made from the Bootswatch Cyborg.</p>
 
-```url
-https://bootswatch.com/cyborg/
-```
+<a>https://bootswatch.com/cyborg/</a>
+
 
 ## Installation
 
