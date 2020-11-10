@@ -15,7 +15,7 @@
 
 
 :root {
-  --blue: #2a9fd6;
+  --blue: #72bbdd;
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
@@ -28,7 +28,7 @@
   --white: #fff;
   --gray: #555;
   --gray-dark: #222;
-  --primary: #2a9fd6;
+  --primary: #7d9caa;
   --secondary: #555;
   --success: #77b300;
   --info: #93c;
@@ -4756,7 +4756,7 @@ input[type=submit].btn-block {
   align-items: center;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  padding: .5rem 1rem
+  padding: 1rem 3rem
 }
 
 .navbar .container,
@@ -4780,7 +4780,7 @@ input[type=submit].btn-block {
   padding-top: .335938rem;
   padding-bottom: .335938rem;
   margin-right: 1rem;
-  font-size: 1.09375rem;
+  font-size: 2rem;
   line-height: inherit;
   white-space: nowrap
 }
